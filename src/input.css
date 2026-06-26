@@ -13,4 +13,11 @@
     opacity: 1;
     transform: translateY(0);
   }
+  .hero-content-bottom {
+    position: absolute;
+    bottom: 120px; /* Atur angkanya sesuai selera, misal 100px atau 150px */
+    left: 0;
+    right: 0;
+    z-index: 10;
+}
 }
